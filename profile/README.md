@@ -39,7 +39,7 @@ Past authors:
 * **Chistopher Barry**, *University of Liverpool*
 * **Francis Bench**, *University of Liverpool*
 * **Andrew Chappell**, *University of Warwick*
-* **Steve Dennis**, *University of Warwick & STFC/RAL; University of Liverpool; Universirt of Cambridge*
+* **Steve Dennis**, *University of Warwick & STFC/RAL; University of Liverpool; University of Cambridge*
 * **Lorena Escudero**, *University of Cambridge; IFIC Valencia*
 * **Nick Grant**, *STFC/RAL; Lancaster University; University of Warwick*
 * **Thomas Ham**, *University of Liverpool*
