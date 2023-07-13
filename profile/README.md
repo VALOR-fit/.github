@@ -25,20 +25,18 @@ Currently, all codes in the repositories hosted in this GitHub organization are 
 The VALOR group has medium-term plans to license and distribute the VALOR SDK to the community.
 
 Experiment-agnostic analysis framework repository:
-[VALOR-SDK](https://github.com/VALOR-fit/VALOR-SDK) 
-
+[VALOR-SDK](https://github.com/VALOR-fit/VALOR-SDK) <br />
 Experiment-specific analysis repositories:
 [VALOR-SBN](https://github.com/VALOR-fit/VALOR-SBN) -
 [VALOR-T2K-LBL](https://github.com/VALOR-fit/VALOR-T2K-LBL) -
-[VALOR-DUNE-LBL](https://github.com/VALOR-fit/VALOR-DUNE-LBL) 
-
+[VALOR-DUNE-LBL](https://github.com/VALOR-fit/VALOR-DUNE-LBL) <br />
 Technical note and other documentation repositories:
 [VALOR-SBN-DOCS](https://github.com/VALOR-fit/VALOR-SBN-DOCS) -
 [VALOR-T2K-DOCS](https://github.com/VALOR-fit/VALOR-T2K-DOCS) -
 [VALOR-HK-DOCS](https://github.com/VALOR-fit/VALOR-HK-DOCS) -
 [VALOR-DUNE-DOCS](https://github.com/VALOR-fit/VALOR-DUNE-DOCS) -
 [VALOR-WEB](https://github.com/VALOR-fit/VALOR-WEB) -
-[VALOR-MANUAL]()
+[VALOR-MANUAL](https://github.com/VALOR-fit/VALOR-MANUAL)
 
 ## Authors
 
