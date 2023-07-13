@@ -16,11 +16,29 @@ Details on the prolific T2K oscillation analysis output of the VALOR group can b
 
 Out of this effort came the *VALOR Software Development Kit (SDK)*, 
 a powerful, flexible, experiment-agnostic, well-validated, and optimised neutrino analysis framework. 
-Using the VALOR SDK, our group has implemented analyses for sterile neutrino searches at the Fermilab SBN program,
+Using the VALOR SDK, our group has implemented analyses for sterile neutrino searches at the [Fermilab SBN program](https://sbn.fnal.gov/),
 as well as for sensitivity evaluation and design optimisation studies for future experiments, such as DUNE and HyperK.
 
-Currently, all codes in the repositories hosted in this GitHub organization are closed source.
+## Respositories hosted in this GitHub organization
+
+Currently, all codes in the repositories hosted in this GitHub organization are closed source :key:.
 The VALOR group has medium-term plans to license and distribute the VALOR SDK to the community.
+
+Experiment-agnostic analysis framework repository:
+[VALOR-SDK](https://github.com/VALOR-fit/VALOR-SDK) 
+
+Experiment-specific analysis repositories:
+[VALOR-SBN](https://github.com/VALOR-fit/VALOR-SBN) -
+[VALOR-T2K-LBL](https://github.com/VALOR-fit/VALOR-T2K-LBL) -
+[VALOR-DUNE-LBL](https://github.com/VALOR-fit/VALOR-DUNE-LBL) 
+
+Technical note and other documentation repositories:
+[VALOR-SBN-DOCS](https://github.com/VALOR-fit/VALOR-SBN-DOCS) -
+[VALOR-T2K-DOCS](https://github.com/VALOR-fit/VALOR-T2K-DOCS) -
+[VALOR-HK-DOCS](https://github.com/VALOR-fit/VALOR-HK-DOCS) -
+[VALOR-DUNE-DOCS](https://github.com/VALOR-fit/VALOR-DUNE-DOCS) -
+[VALOR-WEB](https://github.com/VALOR-fit/VALOR-WEB) -
+[VALOR-MANUAL]()
 
 ## Authors
 
