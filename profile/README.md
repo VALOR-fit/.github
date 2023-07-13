@@ -22,6 +22,37 @@ as well as for sensitivity evaluation and design optimisation studies for future
 Currently, all codes in the repositories hosted in this GitHub organization are closed source.
 The VALOR group has medium-term plans to license and distribute the VALOR SDK to the community.
 
+## Authors
+
+* **Costas Andreopoulos**, *University of Liverpool*
+* **Maria Antonova**, *IFIC Valencia*
+* **Thomas Dealtry**, *Lancaster University*
+* **Rhiannon Jones**, *University of Sheffield*
+* **Tereza Kroupova**, *University of Pennsylvania*
+* **Jaiden Parlone**, *University of Liverpool*
+* **Davide Sgalaberna**, *ETHZ*
+* **Beth Slater**, *University of Liverpool*
+
+Past authors:
+
+* **Dom Barker**, *University of Sheffield*
+* **Chistopher Barry**, *University of Liverpool*
+* **Francis Bench**, *University of Liverpool*
+* **Andrew Chappell**, *University of Warwick*
+* **Steve Dennis**, *University of Warwick & STFC/RAL; University of Liverpool; Universirt of Cambridge*
+* **Lorena Escudero**, *University of Cambridge; IFIC Valencia*
+* **Nick Grant**, *STFC/RAL; Lancaster University; University of Warwick*
+* **Thomas Ham**, *University of Liverpool*
+* **Raj Shah**, *University of Oxford & STFC/RAL*
+
+## Contact
+
+Professor **Costas Andreopoulos** < c.andreopoulos \at cern.ch >
+ 
+**University of Liverpool** | Dept. of Physics <br>
+*Oliver Lodge Lab 316, Liverpool L69 7ZE, UK* | *Tel: +44-(0)1517-943201* <br>
+
+
 <!--
 
 **Here are some ideas to get you started:**
