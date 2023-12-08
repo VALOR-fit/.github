@@ -27,6 +27,7 @@ The VALOR group has medium-term plans to license and distribute the VALOR SDK to
 Experiment-agnostic analysis framework repository:
 [VALOR-SDK](https://github.com/VALOR-fit/VALOR-SDK) <br />
 Experiment-specific analysis repositories:
+[VALOR-JUNO](https://github.com/VALOR-fit/VALOR-JUNO) -
 [VALOR-SBN](https://github.com/VALOR-fit/VALOR-SBN) -
 [VALOR-T2K-LBL](https://github.com/VALOR-fit/VALOR-T2K-LBL) -
 [VALOR-DUNE-LBL](https://github.com/VALOR-fit/VALOR-DUNE-LBL) <br />
@@ -42,8 +43,11 @@ Technical note and other documentation repositories:
 
 * **Costas Andreopoulos**, *University of Liverpool*
 * **Maria Antonova**, *IFIC Valencia*
+* **Yaoqi Cao**, *University of Warwick*
 * **Thomas Dealtry**, *Lancaster University*
+* **Ziou He**, *University of Warwick*
 * **Rhiannon Jones**, *University of Sheffield*
+* **Komninos-John Plows**, *University of Pennsylvania*
 * **Tereza Kroupova**, *University of Pennsylvania*
 * **Jaiden Parlone**, *University of Liverpool*
 * **Davide Sgalaberna**, *ETHZ*
