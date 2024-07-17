@@ -42,19 +42,18 @@ Technical note and other documentation repositories:
 ## Authors
 
 * **Costas Andreopoulos**, *University of Liverpool*
-* **Maria Antonova**, *IFIC Valencia*
 * **Yaoqi Cao**, *University of Warwick*
 * **Thomas Dealtry**, *Lancaster University*
 * **Ziou He**, *University of Warwick*
 * **Rhiannon Jones**, *University of Sheffield*
 * **Komninos-John Plows**, *University of Pennsylvania*
 * **Tereza Kroupova**, *University of Pennsylvania*
-* **Jaiden Parlone**, *University of Liverpool*
 * **Davide Sgalaberna**, *ETHZ*
 * **Beth Slater**, *University of Liverpool*
 
 Past authors:
 
+* **Maria Antonova**, *IFIC Valencia*
 * **Dom Barker**, *University of Sheffield*
 * **Chistopher Barry**, *University of Liverpool*
 * **Francis Bench**, *University of Liverpool*
@@ -63,6 +62,7 @@ Past authors:
 * **Lorena Escudero**, *University of Cambridge; IFIC Valencia*
 * **Nick Grant**, *STFC/RAL; Lancaster University; University of Warwick*
 * **Thomas Ham**, *University of Liverpool*
+* **Jaiden Parlone**, *University of Liverpool*
 * **Raj Shah**, *University of Oxford & STFC/RAL*
 
 ## Contact
