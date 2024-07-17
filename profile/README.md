@@ -8,6 +8,8 @@ oooooo     oooo       .o.       ooooo          .oooooo.   ooooooooo.
       `8'       o88o     o8888o o888ooooood8  `Y8bood8P'  o888o  o888o     
 </pre>
 
+![VALOR](https://VALOR-fit.github.io/valor_nu_small_transparent.png)
+
 [VALOR is a neutrino oscillation analysis group](https://valor.pp.rl.ac.uk) 
 established within the T2K experiment in 2010 and named after its initial participants (*VALencia-Oxford-Rutherford*). 
 The VALOR group led numerous flagship [T2K](https://t2k-experiment.org/) oscillation analyses, 
