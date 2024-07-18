@@ -1,4 +1,4 @@
-![VALOR](https://VALOR-fit.github.io/valor_nu_small_transparent.png)
+![VALOR](valor_nu_small_transparent.png)
 
 [VALOR is a neutrino oscillation analysis group](https://valor.pp.rl.ac.uk) 
 established within the T2K experiment in 2010 and named after its initial participants (*VALencia-Oxford-Rutherford*). 
