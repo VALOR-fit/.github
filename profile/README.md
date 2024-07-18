@@ -28,8 +28,8 @@ Technical note and other documentation repositories:
 [VALOR-T2K-DOCS](https://github.com/VALOR-fit/VALOR-T2K-DOCS) -
 [VALOR-HK-DOCS](https://github.com/VALOR-fit/VALOR-HK-DOCS) -
 [VALOR-DUNE-DOCS](https://github.com/VALOR-fit/VALOR-DUNE-DOCS) -
-[VALOR-WEB](https://github.com/VALOR-fit/VALOR-WEB) -
-[VALOR-MANUAL](https://github.com/VALOR-fit/VALOR-MANUAL)
+[VALOR-MANUAL](https://github.com/VALOR-fit/VALOR-MANUAL) -
+[VALOR-fit.github.io](https://github.com/VALOR-fit/VALOR-fit.github.io) 
 
 ## Authors
 
