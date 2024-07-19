@@ -38,7 +38,7 @@ Technical note and other documentation repositories:
 * **Thomas Dealtry**, *Lancaster University*
 * **Ziou He**, *University of Warwick*
 * **Rhiannon Jones**, *University of Sheffield*
-* **Komninos-John Plows**, *University of Pennsylvania*
+* **Komninos-John Plows**, *University of Liverpool*
 * **Tereza Kroupova**, *University of Pennsylvania*
 * **Davide Sgalaberna**, *ETHZ*
 * **Beth Slater**, *University of Liverpool*
