@@ -1,10 +1,12 @@
 ![VALOR](valor_nu_small_transparent.png)
 
 [VALOR is a neutrino oscillation analysis group](https://valor.pp.rl.ac.uk) 
-established within the T2K experiment in 2010 and named after its initial participants (*VALencia-Oxford-Rutherford*). 
-Between 2010-2024 VALOR group led numerous flagship [T2K](https://t2k-experiment.org/) oscillation analyses, 
-produced world-leading results on behalf of the T2K collaboration and contributed to most published T2K oscillation papers. 
-Details on the prolific T2K oscillation analysis output of the VALOR group can be found [here](https://hep.ph.liv.ac.uk/~costasa/valor/#results_t2k).
+established within the T2K experiment in 2010.
+From 2010 to 2024, the VALOR group led numerous flagship T2K oscillation analyses, 
+delivered world-leading results on behalf of the collaboration, and contributed to the 
+majority of published T2K oscillation papers. 
+A detailed overview of VALOR’s extensive contributions to T2K oscillation analysis 
+can be found [here](https://hep.ph.liv.ac.uk/~costasa/valor/#results_t2k).
 
 Out of this effort came the *VALOR Software Development Kit (SDK)*, 
 a powerful, flexible, experiment-agnostic, well-validated, and optimised neutrino analysis framework. 
