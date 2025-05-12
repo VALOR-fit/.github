@@ -2,7 +2,7 @@
 
 [VALOR is a neutrino oscillation analysis group](https://valor.pp.rl.ac.uk) 
 established within the T2K experiment in 2010.
-From 2010 to 2024, the VALOR group led numerous flagship T2K oscillation analyses, 
+From 2010 to 2020, the VALOR group led numerous flagship T2K oscillation analyses, 
 delivered world-leading results on behalf of the collaboration, and contributed to the 
 majority of published T2K oscillation papers. 
 A detailed overview of VALOR’s extensive contributions to T2K oscillation analysis 
